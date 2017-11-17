@@ -16,3 +16,4 @@ kazue
 kazue2
 
 master kazue1
+patch2 kazue2

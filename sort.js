@@ -13,3 +13,4 @@ console.log(number);
 // console.log(number);
 kazue
 kazue2
+kazue3

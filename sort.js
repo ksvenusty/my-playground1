@@ -13,3 +13,5 @@ console.log(number);
 // console.log(number);
 kazue
 kazue2
+
+master kazue1
